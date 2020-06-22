@@ -5,3 +5,5 @@ This project was also performed under the supervision of Dr. Shan Du. She specia
 
 This project was performed using the code in this repo:- https://github.com/MicrocontrollersAndMore/OpenCV_3_License_Plate_Recognition_Cpp
  We used C++ and Visual Studio to perform ALPR using KNN.
+
+The file ReportCV.pdf contains the results that we obtained to an extended data set.
